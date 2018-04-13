@@ -1,0 +1,5 @@
+<aura:component  access="global" controller="ViewQuotePDF" implements="flexipage:availableForAllPageTypes"> 
+    <aura:attribute name="quote" type="ViewQuotePDF.getPDF"/>    
+    <aura:registerEvent name="showPDF" type="c:modalEvent" /> 
+    <lightning:button onclick="{!c.displayQuote}" />
+</aura:component>

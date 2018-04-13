@@ -1,0 +1,37 @@
+42.0 APEX_CODE,FINEST;APEX_PROFILING,INFO;CALLOUT,INFO;DB,INFO;SYSTEM,DEBUG;VALIDATION,INFO;VISUALFORCE,INFO;WAVE,INFO;WORKFLOW,INFO
+Execute Anonymous:   public static  void testBlobPDF() 
+Execute Anonymous:     {
+Execute Anonymous:         string PDFBody = testBlobToPDF.Body();
+Execute Anonymous:         Blob pdfBlob = Blob.toPDF(PDFBody);
+Execute Anonymous:         testBlobToPDF.SaveBlobToDoc(pdfBlob);
+Execute Anonymous:     }
+14:53:46.1 (1149363)|USER_INFO|[EXTERNAL]|005f4000001uuP2|nmolinam@deloitte.com|Hora de Venezuela|GMT-04:00
+14:53:46.1 (1172342)|EXECUTION_STARTED
+14:53:46.1 (1176728)|CODE_UNIT_STARTED|[EXTERNAL]|execute_anonymous_apex
+14:53:46.1 (1351575)|HEAP_ALLOCATE|[72]|Bytes:3
+14:53:46.1 (1408680)|HEAP_ALLOCATE|[77]|Bytes:152
+14:53:46.1 (1423178)|HEAP_ALLOCATE|[342]|Bytes:408
+14:53:46.1 (1436998)|HEAP_ALLOCATE|[355]|Bytes:408
+14:53:46.1 (1448329)|HEAP_ALLOCATE|[467]|Bytes:48
+14:53:46.1 (1473814)|HEAP_ALLOCATE|[139]|Bytes:6
+14:53:46.1 (1489412)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:1
+14:53:46.1 (1580006)|STATEMENT_EXECUTE|[1]
+14:53:46.1 (1602750)|CUMULATIVE_LIMIT_USAGE
+14:53:46.1 (1602750)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 0 out of 100
+  Number of query rows: 0 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+14:53:46.1 (1602750)|CUMULATIVE_LIMIT_USAGE_END
+
+14:53:46.1 (1636604)|CODE_UNIT_FINISHED|execute_anonymous_apex
+14:53:46.1 (2417653)|EXECUTION_FINISHED

@@ -1,0 +1,20 @@
+{
+    "projectName": "cotizacion",
+    "username": "nmolinam@deloitte.com",
+    "id": "05d4aa70-3ce9-11e8-ae16-f504c13428cb",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://nico2018-dev-ed.my.salesforce.com",
+    "workspace": "C:\\Users\\NMOLINAM\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "CustomMetadata",
+        "CustomObject",
+        "CustomTab",
+        "StaticResource"
+    ]
+}
