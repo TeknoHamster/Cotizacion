@@ -1,0 +1,8 @@
+<aura:component implements="flexipage:availableForAllPageTypes" >
+
+   <!-- attribute to accept Visualforce page's javascript method -->
+   <aura:attribute name="sendData" type="object"/>
+
+   <!-- Button component to invoke PDF download -->
+   
+</aura:component>

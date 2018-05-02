@@ -1,2 +1,14 @@
 {
+    "terminal.integrated.env.osx": {
+        "SFDX_SET_CLIENT_IDS": "sfdx-vscode"
+    },
+    "terminal.integrated.env.linux": {
+        "SFDX_SET_CLIENT_IDS": "sfdx-vscode"
+    },
+    "terminal.integrated.env.windows": {
+        "SFDX_SET_CLIENT_IDS": "sfdx-vscode"
+    },
+    "salesforcedx-vscode-apex.java.home": "C:/Program Files/Java/jdk1.8.0_161",
+    "apexAutoComplete.docGenerationFormat": "apexdoc",
+    "apexAutoComplete.checkSyntax": true
 }

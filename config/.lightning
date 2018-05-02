@@ -2,14 +2,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003PUxCAM"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003PUxCAM"
         },
         "Id": "0Adf40000003PUxCAM",
         "AuraDefinitionBundleId": "0Abf40000001BVUCA2",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BVUCA2"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BVUCA2"
             },
             "DeveloperName": "CotiPDFView"
         },
@@ -19,14 +19,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003PUsCAM"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003PUsCAM"
         },
         "Id": "0Adf40000003PUsCAM",
         "AuraDefinitionBundleId": "0Abf40000001BVUCA2",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BVUCA2"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BVUCA2"
             },
             "DeveloperName": "CotiPDFView"
         },
@@ -36,14 +36,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003PUdCAM"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003PUdCAM"
         },
         "Id": "0Adf40000003PUdCAM",
         "AuraDefinitionBundleId": "0Abf40000001BVUCA2",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BVUCA2"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BVUCA2"
             },
             "DeveloperName": "CotiPDFView"
         },
@@ -53,14 +53,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003PUiCAM"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003PUiCAM"
         },
         "Id": "0Adf40000003PUiCAM",
         "AuraDefinitionBundleId": "0Abf40000001BVUCA2",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BVUCA2"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BVUCA2"
             },
             "DeveloperName": "CotiPDFView"
         },
@@ -70,14 +70,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003PV7CAM"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003PV7CAM"
         },
         "Id": "0Adf40000003PV7CAM",
         "AuraDefinitionBundleId": "0Abf40000001BVUCA2",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BVUCA2"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BVUCA2"
             },
             "DeveloperName": "CotiPDFView"
         },
@@ -87,14 +87,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003PV2CAM"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003PV2CAM"
         },
         "Id": "0Adf40000003PV2CAM",
         "AuraDefinitionBundleId": "0Abf40000001BVUCA2",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BVUCA2"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BVUCA2"
             },
             "DeveloperName": "CotiPDFView"
         },
@@ -104,14 +104,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003PUnCAM"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003PUnCAM"
         },
         "Id": "0Adf40000003PUnCAM",
         "AuraDefinitionBundleId": "0Abf40000001BVUCA2",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BVUCA2"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BVUCA2"
             },
             "DeveloperName": "CotiPDFView"
         },
@@ -121,14 +121,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003PUoCAM"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003PUoCAM"
         },
         "Id": "0Adf40000003PUoCAM",
         "AuraDefinitionBundleId": "0Abf40000001BVUCA2",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BVUCA2"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BVUCA2"
             },
             "DeveloperName": "CotiPDFView"
         },
@@ -138,14 +138,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003Q6eCAE"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003Q6eCAE"
         },
         "Id": "0Adf40000003Q6eCAE",
         "AuraDefinitionBundleId": "0Abf40000001BhECAU",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BhECAU"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BhECAU"
             },
             "DeveloperName": "cotizacionApp"
         },
@@ -155,14 +155,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003Q6oCAE"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003Q6oCAE"
         },
         "Id": "0Adf40000003Q6oCAE",
         "AuraDefinitionBundleId": "0Abf40000001BhECAU",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BhECAU"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BhECAU"
             },
             "DeveloperName": "cotizacionApp"
         },
@@ -172,14 +172,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003Q6jCAE"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003Q6jCAE"
         },
         "Id": "0Adf40000003Q6jCAE",
         "AuraDefinitionBundleId": "0Abf40000001BhECAU",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BhECAU"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BhECAU"
             },
             "DeveloperName": "cotizacionApp"
         },
@@ -189,14 +189,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003Q6UCAU"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003Q6UCAU"
         },
         "Id": "0Adf40000003Q6UCAU",
         "AuraDefinitionBundleId": "0Abf40000001BhECAU",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BhECAU"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BhECAU"
             },
             "DeveloperName": "cotizacionApp"
         },
@@ -206,14 +206,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003Q6ZCAU"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003Q6ZCAU"
         },
         "Id": "0Adf40000003Q6ZCAU",
         "AuraDefinitionBundleId": "0Abf40000001BhECAU",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BhECAU"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BhECAU"
             },
             "DeveloperName": "cotizacionApp"
         },
@@ -223,14 +223,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003Q6tCAE"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003Q6tCAE"
         },
         "Id": "0Adf40000003Q6tCAE",
         "AuraDefinitionBundleId": "0Abf40000001BhECAU",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BhECAU"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BhECAU"
             },
             "DeveloperName": "cotizacionApp"
         },
@@ -240,14 +240,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003Q6yCAE"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003Q6yCAE"
         },
         "Id": "0Adf40000003Q6yCAE",
         "AuraDefinitionBundleId": "0Abf40000001BhECAU",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BhECAU"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BhECAU"
             },
             "DeveloperName": "cotizacionApp"
         },
@@ -257,14 +257,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003Q73CAE"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003Q73CAE"
         },
         "Id": "0Adf40000003Q73CAE",
         "AuraDefinitionBundleId": "0Abf40000001BhJCAU",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BhJCAU"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001BhJCAU"
             },
             "DeveloperName": "modalEvent"
         },
@@ -274,14 +274,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003Vy0CAE"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003Vy0CAE"
         },
         "Id": "0Adf40000003Vy0CAE",
         "AuraDefinitionBundleId": "0Abf40000001DZKCA2",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001DZKCA2"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001DZKCA2"
             },
             "DeveloperName": "PDFViewerComponent"
         },
@@ -291,14 +291,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003Vy5CAE"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003Vy5CAE"
         },
         "Id": "0Adf40000003Vy5CAE",
         "AuraDefinitionBundleId": "0Abf40000001DZKCA2",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001DZKCA2"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001DZKCA2"
             },
             "DeveloperName": "PDFViewerComponent"
         },
@@ -308,14 +308,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003VyKCAU"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003VyKCAU"
         },
         "Id": "0Adf40000003VyKCAU",
         "AuraDefinitionBundleId": "0Abf40000001DZKCA2",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001DZKCA2"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001DZKCA2"
             },
             "DeveloperName": "PDFViewerComponent"
         },
@@ -325,14 +325,14 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003VyFCAU"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003VyFCAU"
         },
         "Id": "0Adf40000003VyFCAU",
         "AuraDefinitionBundleId": "0Abf40000001DZKCA2",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001DZKCA2"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001DZKCA2"
             },
             "DeveloperName": "PDFViewerComponent"
         },
@@ -342,18 +342,426 @@
     {
         "attributes": {
             "type": "AuraDefinition",
-            "url": "/services/data/v36.0/tooling/sobjects/AuraDefinition/0Adf40000003VyACAU"
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003VyACAU"
         },
         "Id": "0Adf40000003VyACAU",
         "AuraDefinitionBundleId": "0Abf40000001DZKCA2",
         "AuraDefinitionBundle": {
             "attributes": {
                 "type": "AuraDefinitionBundle",
-                "url": "/services/data/v36.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001DZKCA2"
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001DZKCA2"
             },
             "DeveloperName": "PDFViewerComponent"
         },
         "DefType": "COMPONENT",
         "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003W9PCAU"
+        },
+        "Id": "0Adf40000003W9PCAU",
+        "AuraDefinitionBundleId": "0Abf40000001Dd3CAE",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001Dd3CAE"
+            },
+            "DeveloperName": "pdfViewerExampleComponent"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003W9QCAU"
+        },
+        "Id": "0Adf40000003W9QCAU",
+        "AuraDefinitionBundleId": "0Abf40000001Dd3CAE",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001Dd3CAE"
+            },
+            "DeveloperName": "pdfViewerExampleComponent"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003W9RCAU"
+        },
+        "Id": "0Adf40000003W9RCAU",
+        "AuraDefinitionBundleId": "0Abf40000001Dd3CAE",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001Dd3CAE"
+            },
+            "DeveloperName": "pdfViewerExampleComponent"
+        },
+        "DefType": "STYLE",
+        "Format": "CSS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003W9OCAU"
+        },
+        "Id": "0Adf40000003W9OCAU",
+        "AuraDefinitionBundleId": "0Abf40000001Dd3CAE",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001Dd3CAE"
+            },
+            "DeveloperName": "pdfViewerExampleComponent"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003W9SCAU"
+        },
+        "Id": "0Adf40000003W9SCAU",
+        "AuraDefinitionBundleId": "0Abf40000001Dd3CAE",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001Dd3CAE"
+            },
+            "DeveloperName": "pdfViewerExampleComponent"
+        },
+        "DefType": "DOCUMENTATION",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003W9TCAU"
+        },
+        "Id": "0Adf40000003W9TCAU",
+        "AuraDefinitionBundleId": "0Abf40000001Dd3CAE",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001Dd3CAE"
+            },
+            "DeveloperName": "pdfViewerExampleComponent"
+        },
+        "DefType": "RENDERER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003W9UCAU"
+        },
+        "Id": "0Adf40000003W9UCAU",
+        "AuraDefinitionBundleId": "0Abf40000001Dd4CAE",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001Dd4CAE"
+            },
+            "DeveloperName": "pdfViewer"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003W9VCAU"
+        },
+        "Id": "0Adf40000003W9VCAU",
+        "AuraDefinitionBundleId": "0Abf40000001Dd4CAE",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001Dd4CAE"
+            },
+            "DeveloperName": "pdfViewer"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003W9WCAU"
+        },
+        "Id": "0Adf40000003W9WCAU",
+        "AuraDefinitionBundleId": "0Abf40000001Dd4CAE",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001Dd4CAE"
+            },
+            "DeveloperName": "pdfViewer"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003W9XCAU"
+        },
+        "Id": "0Adf40000003W9XCAU",
+        "AuraDefinitionBundleId": "0Abf40000001Dd4CAE",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001Dd4CAE"
+            },
+            "DeveloperName": "pdfViewer"
+        },
+        "DefType": "STYLE",
+        "Format": "CSS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003W9YCAU"
+        },
+        "Id": "0Adf40000003W9YCAU",
+        "AuraDefinitionBundleId": "0Abf40000001Dd4CAE",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001Dd4CAE"
+            },
+            "DeveloperName": "pdfViewer"
+        },
+        "DefType": "DOCUMENTATION",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003W9ZCAU"
+        },
+        "Id": "0Adf40000003W9ZCAU",
+        "AuraDefinitionBundleId": "0Abf40000001Dd4CAE",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001Dd4CAE"
+            },
+            "DeveloperName": "pdfViewer"
+        },
+        "DefType": "RENDERER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003hxYCAQ"
+        },
+        "Id": "0Adf40000003hxYCAQ",
+        "AuraDefinitionBundleId": "0Abf40000001HVGCA2",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001HVGCA2"
+            },
+            "DeveloperName": "DataProcessor"
+        },
+        "DefType": "STYLE",
+        "Format": "CSS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003hxiCAA"
+        },
+        "Id": "0Adf40000003hxiCAA",
+        "AuraDefinitionBundleId": "0Abf40000001HVGCA2",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001HVGCA2"
+            },
+            "DeveloperName": "DataProcessor"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003hxdCAA"
+        },
+        "Id": "0Adf40000003hxdCAA",
+        "AuraDefinitionBundleId": "0Abf40000001HVGCA2",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001HVGCA2"
+            },
+            "DeveloperName": "DataProcessor"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003hxTCAQ"
+        },
+        "Id": "0Adf40000003hxTCAQ",
+        "AuraDefinitionBundleId": "0Abf40000001HVGCA2",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001HVGCA2"
+            },
+            "DeveloperName": "DataProcessor"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf40000003hxnCAA"
+        },
+        "Id": "0Adf40000003hxnCAA",
+        "AuraDefinitionBundleId": "0Abf40000001HVLCA2",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001HVLCA2"
+            },
+            "DeveloperName": "LightningPDFGeneratorDemoApp"
+        },
+        "DefType": "APPLICATION",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf400000040T4CAI"
+        },
+        "Id": "0Adf400000040T4CAI",
+        "AuraDefinitionBundleId": "0Abf40000001NSPCA2",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001NSPCA2"
+            },
+            "DeveloperName": "CloneQuoteButton"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf400000040SzCAI"
+        },
+        "Id": "0Adf400000040SzCAI",
+        "AuraDefinitionBundleId": "0Abf40000001NSPCA2",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001NSPCA2"
+            },
+            "DeveloperName": "CloneQuoteButton"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf4000001MF7VCAW"
+        },
+        "Id": "0Adf4000001MF7VCAW",
+        "AuraDefinitionBundleId": "0Abf40000001NSPCA2",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001NSPCA2"
+            },
+            "DeveloperName": "CloneQuoteButton"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf4000001MnbrCAC"
+        },
+        "Id": "0Adf4000001MnbrCAC",
+        "AuraDefinitionBundleId": "0Abf40000001iVnCAI",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001iVnCAI"
+            },
+            "DeveloperName": "botonPDFCotizacion"
+        },
+        "DefType": "HELPER",
+        "Format": "JS"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf4000001MnbmCAC"
+        },
+        "Id": "0Adf4000001MnbmCAC",
+        "AuraDefinitionBundleId": "0Abf40000001iVnCAI",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001iVnCAI"
+            },
+            "DeveloperName": "botonPDFCotizacion"
+        },
+        "DefType": "COMPONENT",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf4000001MnbcCAC"
+        },
+        "Id": "0Adf4000001MnbcCAC",
+        "AuraDefinitionBundleId": "0Abf40000001iVnCAI",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001iVnCAI"
+            },
+            "DeveloperName": "botonPDFCotizacion"
+        },
+        "DefType": "DOCUMENTATION",
+        "Format": "XML"
+    },
+    {
+        "attributes": {
+            "type": "AuraDefinition",
+            "url": "/services/data/v41.0/tooling/sobjects/AuraDefinition/0Adf4000001MnbhCAC"
+        },
+        "Id": "0Adf4000001MnbhCAC",
+        "AuraDefinitionBundleId": "0Abf40000001iVnCAI",
+        "AuraDefinitionBundle": {
+            "attributes": {
+                "type": "AuraDefinitionBundle",
+                "url": "/services/data/v41.0/tooling/sobjects/AuraDefinitionBundle/0Abf40000001iVnCAI"
+            },
+            "DeveloperName": "botonPDFCotizacion"
+        },
+        "DefType": "CONTROLLER",
+        "Format": "JS"
     }
 ]

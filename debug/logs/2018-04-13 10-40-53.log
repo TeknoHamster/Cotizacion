@@ -1,0 +1,30 @@
+42.0 APEX_CODE,FINEST;APEX_PROFILING,INFO;CALLOUT,INFO;DB,INFO;SYSTEM,DEBUG;VALIDATION,INFO;VISUALFORCE,INFO;WAVE,INFO;WORKFLOW,INFO
+09:40:58.0 (464804)|USER_INFO|[EXTERNAL]|005f4000001uuP2|nmolinam@deloitte.com|Hora de Venezuela|GMT-04:00
+09:40:58.0 (533630)|EXECUTION_STARTED
+09:40:58.0 (541365)|CODE_UNIT_STARTED|[EXTERNAL]|VisualForce View State
+09:40:58.0 (22420906)|CODE_UNIT_FINISHED|VisualForce View State
+09:40:58.0 (23575597)|EXECUTION_FINISHED
+09:40:58.26 (26972659)|USER_INFO|[EXTERNAL]|005f4000001uuP2|nmolinam@deloitte.com|Hora de Venezuela|GMT-04:00
+09:40:58.26 (27021518)|EXECUTION_STARTED
+09:40:58.26 (27033061)|CODE_UNIT_STARTED|[EXTERNAL]|VF: /apex/editStaticResource.apexp
+09:40:58.34 (34277381)|SYSTEM_MODE_ENTER|false
+09:40:58.34 (71394219)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+09:40:58.75 (75079886)|CUMULATIVE_LIMIT_USAGE
+09:40:58.75 (75079886)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 0 out of 100
+  Number of query rows: 0 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+09:40:58.75 (75079886)|CUMULATIVE_LIMIT_USAGE_END
+
+09:40:58.26 (75146639)|CODE_UNIT_FINISHED|VF: /apex/editStaticResource.apexp
+09:40:58.26 (76210301)|EXECUTION_FINISHED

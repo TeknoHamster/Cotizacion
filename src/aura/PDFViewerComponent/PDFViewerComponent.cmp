@@ -1,8 +1,5 @@
-<aura:component 
-implements="force:appHostable,flexipage:availableForAllPageTypes
-,flexipage:availableForRecordHome,force:hasRecordId
-,forceCommunity:availableForAllPageTypes,force:lightningQuickAction"
- access="global" controller="viewQuotePDF">
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,forceCommunity:availableForAllPageTypes,force:lightningQuickAction"
+ access="global" controller="ViewQuotePDF">
 dasdadasd
 	<aura:attribute name="pdfData" type="String"/>
 	<aura:handler name="init" value="{!this}" action="{!c.getQuotes}" />

@@ -1,3 +1,3 @@
 <aura:application >
-   <c:PDFViewerComponent/>
+   <c:PDFViewerComponent />
 </aura:application>

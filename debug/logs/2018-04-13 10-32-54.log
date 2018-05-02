@@ -1,0 +1,36 @@
+42.0 APEX_CODE,FINEST;APEX_PROFILING,INFO;CALLOUT,INFO;DB,INFO;SYSTEM,DEBUG;VALIDATION,INFO;VISUALFORCE,INFO;WAVE,INFO;WORKFLOW,INFO
+09:32:58.0 (332278)|USER_INFO|[EXTERNAL]|005f4000001uuP2|nmolinam@deloitte.com|Hora de Venezuela|GMT-04:00
+09:32:58.0 (369427)|EXECUTION_STARTED
+09:32:58.0 (374209)|CODE_UNIT_STARTED|[EXTERNAL]|VisualForce View State
+09:32:58.0 (13676089)|CODE_UNIT_FINISHED|VisualForce View State
+09:32:58.0 (14524454)|EXECUTION_FINISHED
+09:32:58.16 (16553677)|USER_INFO|[EXTERNAL]|005f4000001uuP2|nmolinam@deloitte.com|Hora de Venezuela|GMT-04:00
+09:32:58.16 (16570393)|EXECUTION_STARTED
+09:32:58.16 (16573983)|CODE_UNIT_STARTED|[EXTERNAL]|VF: /apex/editStaticResource.apexp
+09:32:58.16 (17977568)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+09:32:58.18 (18227619)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+09:32:58.19 (19302810)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+09:32:58.19 (19388953)|HEAP_ALLOCATE|[EXTERNAL]|Bytes:-4
+09:32:58.19 (19668404)|SYSTEM_MODE_ENTER|false
+09:32:58.19 (42148599)|VF_PAGE_MESSAGE|The Static Resource name can only contain alphanumeric characters, must begin with a letter, and must be unique.
+09:32:58.16 (54465083)|VF_SERIALIZE_VIEWSTATE_BEGIN|
+09:32:58.16 (56949782)|VF_SERIALIZE_VIEWSTATE_END
+09:32:58.60 (60782571)|CUMULATIVE_LIMIT_USAGE
+09:32:58.60 (60782571)|LIMIT_USAGE_FOR_NS|(default)|
+  Number of SOQL queries: 0 out of 100
+  Number of query rows: 0 out of 50000
+  Number of SOSL queries: 0 out of 20
+  Number of DML statements: 0 out of 150
+  Number of DML rows: 0 out of 10000
+  Maximum CPU time: 0 out of 10000
+  Maximum heap size: 0 out of 6000000
+  Number of callouts: 0 out of 100
+  Number of Email Invocations: 0 out of 10
+  Number of future calls: 0 out of 50
+  Number of queueable jobs added to the queue: 0 out of 50
+  Number of Mobile Apex push calls: 0 out of 10
+
+09:32:58.60 (60782571)|CUMULATIVE_LIMIT_USAGE_END
+
+09:32:58.16 (60825771)|CODE_UNIT_FINISHED|VF: /apex/editStaticResource.apexp
+09:32:58.16 (61587784)|EXECUTION_FINISHED

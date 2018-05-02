@@ -1,0 +1,79 @@
+<apex:page standardController="Quote" applyHtmlTag="false" showHeader="false" renderAs="pdf">
+
+	<head>
+		<style>
+			table {
+				font-family: arial, sans-serif;
+				border-collapse: collapse;
+				width: 100%;
+			}
+
+			td,
+			th {
+				border: 1px solid #dddddd;
+				text-align: left;
+				padding: 8px;
+			}
+
+			tr:nth-child(even) {
+				background-color: #dddddd;
+			}
+		</style>
+	</head>
+
+	<body>
+
+		<div style="margin: 7px 12px 7px;font-family: Arial,Helvetica,sans-serif;">
+			<apex:pageblock title="Información de Colegio" mode="detail">
+				<div>
+					<apex:pageBlockSection columns="2">
+						<apex:outputLabel value="Name: " />
+						<apex:outputField value="{!Quote.Name}" />
+						<apex:outputLabel value="Id: " />
+						<apex:outputField value="{!Quote.Id}" />
+					</apex:pageBlockSection>
+				</div>
+			</apex:pageblock>
+		</div>
+		<div>
+
+			<h1 style="color:red">COTIZACIÓN</H1>
+			<div>
+				<img src="{!$Resource.img_auto}" width="800" height="500"></img>
+			</div>
+			<div>
+				<h2>
+					Derco automotriz S.A.
+				</h2>
+				Name: {! Quote.name } Name: {!Quote.name }
+				<img src="{!$Resource.test_img}"></img>
+				<apex:outputLink rendered="false" value="{!$Resource.ficha_tecnica}" id="theLink">ficha tecnica</apex:outputLink>
+			</div>
+		</div>
+
+		<table>
+			<tr>
+				<th>Producto</th>
+				<th>Precio de lista</th>
+				<th>Precio de venta</th>
+				<th>Cantidad</th>
+				<th>Descuento</th>
+				<th>Precio total</th>
+			</tr>
+		
+			<apex:repeat var="items" value="{!Quote.QuoteLineItems}">
+
+					<tr>
+						<td>{!items.Product2.Name}</td>
+						<td>${!items.ListPrice}</td>
+						<td>${!items.UnitPrice}</td>
+						<td>{!items.Quantity}</td>
+						<td>{!items.Discount}%</td>
+						<td>${!items.TotalPrice}</td>
+						
+					</tr>
+			
+					</apex:repeat> 
+		</table>
+	</body>
+</apex:page>

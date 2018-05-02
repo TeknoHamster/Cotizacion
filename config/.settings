@@ -12,9 +12,10 @@
         "ApexComponent",
         "ApexPage",
         "ApexTrigger",
+        "AuraDefinitionBundle",
         "CustomMetadata",
-        "CustomObject",
         "CustomTab",
+        "FlexiPage",
         "StaticResource"
     ]
 }
