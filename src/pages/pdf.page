@@ -1,11 +1,12 @@
-<apex:page standardController="Quote" applyHtmlTag="false" showHeader="false" renderAs="pdf">
+<apex:page standardController="Quote" applyHtmlTag="false" applyBodyTag="false" extensions="ControladorPDFCotizacion" tabStyle="Quote"
+ showHeader="false" renderAs="pdf">
 
 	<head>
 		<style>
 			table {
 				font-family: arial, sans-serif;
 				border-collapse: collapse;
-				width: 100%;
+
 			}
 
 			td,
@@ -18,62 +19,243 @@
 			tr:nth-child(even) {
 				background-color: #dddddd;
 			}
+
+			* {
+				box-sizing: border-box;
+			}
+
+			/* Create two equal columns that floats next to each other */
+
+			.column {
+				float: left;
+				width: 50%;
+				padding: 10px;
+				height: 300px;
+				/* Should be removed. Only for demonstration */
+			}
+
+			/* Clear floats after the columns */
+
+			.row:after {
+				content: "";
+				display: table;
+				clear: both;
+			}
+
+			table.gridtable {
+				font-family: verdana, arial, sans-serif;
+				font-size: 11px;
+				color: #333333;
+				border-width: 1px;
+				border-color: #666666;
+			}
+
+			table.gridtable th {
+				border-width: 1px;
+				padding: 8px;
+				border-style: solid;
+				border-color: #666666;
+				font-weight: bold;
+
+			}
+
+			table.gridtable td {
+				border-width: 1px;
+				padding: 8px;
+				border-style: solid;
+				border-color: #666666;
+				background-color: #ffffff;
+			}
+
+			.gridTable {
+				color: palevioletred
+			}
+
+			.odd {
+				color: orangered !important;
+				background-color: #cecece !important
+			}
 		</style>
 	</head>
 
 	<body>
-
-		<div style="margin: 7px 12px 7px;font-family: Arial,Helvetica,sans-serif;">
-			<apex:pageblock title="Información de Colegio" mode="detail">
-				<div>
-					<apex:pageBlockSection columns="2">
-						<apex:outputLabel value="Name: " />
-						<apex:outputField value="{!Quote.Name}" />
-						<apex:outputLabel value="Id: " />
-						<apex:outputField value="{!Quote.Id}" />
-					</apex:pageBlockSection>
-				</div>
-			</apex:pageblock>
-		</div>
-		<div>
-
-			<h1 style="color:red">COTIZACIÓN</H1>
-			<div>
-				<img src="{!$Resource.img_auto}" width="800" height="500"></img>
-			</div>
-			<div>
-				<h2>
-					Derco automotriz S.A.
-				</h2>
-				Name: {! Quote.name } Name: {!Quote.name }
-				<img src="{!$Resource.test_img}"></img>
-				<apex:outputLink rendered="false" value="{!$Resource.ficha_tecnica}" id="theLink">ficha tecnica</apex:outputLink>
-			</div>
-		</div>
-
+		<h1 style="text-align: center">DERCO S.A. </h1>
 		<table>
 			<tr>
-				<th>Producto</th>
-				<th>Precio de lista</th>
-				<th>Precio de venta</th>
-				<th>Cantidad</th>
-				<th>Descuento</th>
-				<th>Precio total</th>
+				<td>
+					PREPARADO PARA:
+				</td>
+				<td>
+					{!Quote.Opportunity.Account.Name}
+				</td>
 			</tr>
-		
-			<apex:repeat var="items" value="{!Quote.QuoteLineItems}">
+			<tr>
+				<td>
+					PREPARADO POR:
+				</td>
+				<td>
+					{!Quote.CreatedBy.name}
+				</td>
+			</tr>
+			<tr>
+				<td>
+					EMAIL:
+				</td>
+				<td> {!Quote.CreatedBy.email}
+				</td>
+			</tr>
+			<tr>
+				<td>
+					FONO:
+				</td>
+				<td> {!Quote.CreatedBy.phone}
+				</td>
+			</tr>
+			<tr>
+				<td>
+					FECHA DE EXPIRACIÓN:
+				</td>
+				<td>
 
-					<tr>
-						<td>{!items.Product2.Name}</td>
-						<td>${!items.ListPrice}</td>
-						<td>${!items.UnitPrice}</td>
-						<td>{!items.Quantity}</td>
-						<td>{!items.Discount}%</td>
-						<td>${!items.TotalPrice}</td>
-						
-					</tr>
+					<apex:outputText value="{0, date, dd/MM/yyyy}">
+						<apex:param value="{!Quote.expirationDate}" />
+					</apex:outputText>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					NUMERO DE COTIZACIÓN:
+				</td>
+				<td>
+					{!Quote.quoteNumber}
+				</td>
+			</tr>
+			<tr>
+				<td>
+					FECHA DE CREACIÓN:
+				</td>
+				<td>
+
+					<apex:outputText value="{0, date, dd/MM/yyyy}">
+						<apex:param value="{!Quote.createdDate}" />
+					</apex:outputText>
+				</td>
+			</tr>
+		</table>
+		<br/>
+		<br/>
+		<apex:dataTable value="{!Quote.QuoteLineItems}" var="item" id="theTable" rowClasses="odd,even" styleClass="gridTable">
+
 			
-					</apex:repeat> 
+
+			<apex:column>
+				<apex:facet name="header">Producto</apex:facet>
+				
+				<apex:outputText value="{!item.Product2.Name}" />
+			</apex:column>
+
+			<apex:column>
+				<apex:facet name="header">Precio de lista</apex:facet>
+		
+				<apex:outputText value="{!item.ListPrice}" />
+			</apex:column>
+			<apex:column>
+				<apex:facet name="header">Precio de venta</apex:facet>
+		
+				<apex:outputText value="{!item.UnitPrice}" />
+			</apex:column>
+			<apex:column>
+				<apex:facet name="header">Cantidad</apex:facet>
+			
+				<apex:outputText value="{!item.Quantity}" />
+			</apex:column>
+			<apex:column>
+				<apex:facet name="header">Descuento</apex:facet>
+		
+				<apex:outputText value="{!item.Discount}%" />
+			</apex:column>
+			<apex:column>
+				<apex:facet name="header">Precio total</apex:facet>
+				
+				<apex:outputText value="${!item.TotalPrice}" />
+			</apex:column>
+
+		</apex:dataTable>
+
+		<br/>
+		<br/>
+
+		<table width="20%">
+			<tr>
+				<td>
+					subtotal:
+				</td>
+
+				<td>
+					<apex:outputText value="{0, number, '000.000'}">
+						<apex:param value="{!Quote.Subtotal}" />
+					</apex:outputText>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Descuento:
+				</td>
+				<td>
+					{!Quote.Discount}
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Precio total:
+				</td>
+				<td>
+					<apex:outputText value="{0, number, 000.000}">
+						<apex:param value="{!Quote.TotalPrice}" />
+					</apex:outputText>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					Gran total:
+				</td>
+				<td>
+					<apex:outputText value="{0, number, 000.000}">
+						<apex:param value="{!Quote.GrandTotal}" />
+					</apex:outputText>
+
+				</td>
+
+			</tr>
+		</table>
+		<br/>
+		<h3>CONFIRMACIÓN DE LA ACEPTACIÓN DE LA COTIZACIÓN</h3>
+		<table>
+			<tr>
+				<td>
+					FIRMA
+				</td>
+				<td> ________________________________
+				</td>
+			</tr>
+			<tr>
+				<td>
+					NOMBRE
+				</td>
+				<td> ________________________________
+				</td>
+			</tr>
+			<tr>
+				<td>
+					TÍTULO
+				</td>
+				<td> ________________________________</td>
+			</tr>
+			<tr>
+				<td> FECHA
+				</td>
+				<td>________________________________</td>
+			</tr>
 		</table>
 	</body>
 </apex:page>

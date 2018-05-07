@@ -45,6 +45,12 @@
             "xmlName": "AuraDefinitionBundle"
         },
         {
+            "directoryName": "lightningcomponents",
+            "inFolder": false,
+            "metaFile": false,
+            "xmlName": "LightningComponentBundle"
+        },
+        {
             "directoryName": "components",
             "inFolder": false,
             "metaFile": true,
@@ -592,6 +598,13 @@
             "xmlName": "SiteDotCom"
         },
         {
+            "directoryName": "networks",
+            "inFolder": false,
+            "metaFile": false,
+            "suffix": "network",
+            "xmlName": "Network"
+        },
+        {
             "directoryName": "networkBranding",
             "inFolder": false,
             "metaFile": true,
@@ -599,11 +612,63 @@
             "xmlName": "NetworkBranding"
         },
         {
+            "directoryName": "communityThemeDefinitions",
+            "inFolder": false,
+            "metaFile": false,
+            "suffix": "communityThemeDefinition",
+            "xmlName": "CommunityThemeDefinition"
+        },
+        {
             "directoryName": "brandingSets",
             "inFolder": false,
             "metaFile": false,
             "suffix": "brandingSet",
             "xmlName": "BrandingSet"
+        },
+        {
+            "directoryName": "communityTemplateDefinitions",
+            "inFolder": false,
+            "metaFile": false,
+            "suffix": "communityTemplateDefinition",
+            "xmlName": "CommunityTemplateDefinition"
+        },
+        {
+            "directoryName": "lightningExperienceThemes",
+            "inFolder": false,
+            "metaFile": false,
+            "suffix": "lightningExperienceTheme",
+            "xmlName": "LightningExperienceTheme"
+        },
+        {
+            "childXmlNames": [
+                "ManagedTopic"
+            ],
+            "directoryName": "managedTopics",
+            "inFolder": false,
+            "metaFile": false,
+            "suffix": "managedTopics",
+            "xmlName": "ManagedTopics"
+        },
+        {
+            "directoryName": "moderation",
+            "inFolder": false,
+            "metaFile": false,
+            "suffix": "keywords",
+            "xmlName": "KeywordList"
+        },
+        {
+            "directoryName": "userCriteria",
+            "inFolder": false,
+            "metaFile": false,
+            "suffix": "userCriteria",
+            "xmlName": "UserCriteria"
+        },
+        {
+            "directoryName": "moderation",
+            "inFolder": false,
+            "metaFile": false,
+            "suffix": "rule",
+            "xmlName": "ModerationRule"
         },
         {
             "directoryName": "samlssoconfigs",
@@ -674,6 +739,13 @@
             "metaFile": false,
             "suffix": "topicsForObjects",
             "xmlName": "TopicsForObjects"
+        },
+        {
+            "directoryName": "emailservices",
+            "inFolder": false,
+            "metaFile": false,
+            "suffix": "xml",
+            "xmlName": "EmailServicesFunction"
         },
         {
             "directoryName": "settings",
